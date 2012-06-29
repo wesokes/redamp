@@ -1,3 +1,4 @@
 /resources/.sass-cache/
 *.DS_STORE
 .project
+/resources/js/ext-4.0.7/resources/sass/.sass-cache/
